@@ -218,6 +218,3 @@ def main():
             print("Obrigado por entrar no nosso guia de Valorant!")
             os.system("pause")
             exit()
-
-if __name__ == "__main__":
-    main()
